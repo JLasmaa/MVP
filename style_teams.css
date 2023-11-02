@@ -1,0 +1,25 @@
+/* Style the team members section */
+.team-members {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem; /* Add spacing between the header and team members */
+}
+
+/* Style individual team member profiles */
+.member {
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #ccc; /* Example border style */
+    border-radius: 8px;
+}
+
+/* Style team member names and roles */
+h2 {
+    font-size: 1.5rem; /* Adjust font size */
+}
+
+p {
+    font-size: 1.2rem; /* Adjust font size */
+}
