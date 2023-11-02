@@ -1,0 +1,23 @@
+/* Reset default margin and padding */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header section */
+header {
+    background-color: #007BFF; /* Example background color */
+    color: #fff; /* Text color */
+    text-align: center;
+    padding: 2rem; /* Adjust as needed */
+}
+
+/* Style the project name (h1) and tagline (p) */
+h1 {
+    font-size: 2rem; /* Adjust the font size */
+    margin-bottom: 1rem; /* Add spacing between the project name and tagline */
+}
+
+p {
+    font-size: 1.2rem; /* Adjust the font size */
+}
