@@ -1,0 +1,14 @@
+challenge-content {
+    margin: 2rem;
+}
+
+/* Style headings for different sections */
+h2 {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+/* Style paragraphs within sections */
+p {
+    margin: 0.5rem 0;
+}
