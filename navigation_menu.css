@@ -1,0 +1,19 @@
+/* Style headings */
+h1 {
+    font-size: 2rem;
+    color: #333; /* Text color for headings */
+    margin: 1rem 0;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #555; /* Text color for subheadings */
+    margin: 1rem 0;
+}
+
+/* Style paragraphs */
+p {
+    font-size: 1rem;
+    color: #666; /* Text color for paragraphs */
+    margin: 0.5rem 0;
+}
