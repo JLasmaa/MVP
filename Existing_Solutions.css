@@ -1,0 +1,15 @@
+/* Style the existing solutions content section */
+.existing-solutions-content {
+    margin: 2rem;
+}
+
+/* Style headings for competitors, similarities, and differences */
+h2 {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+/* Style paragraphs and list items within sections */
+p, ul {
+    margin: 0.5rem 0;
+}
